@@ -10,5 +10,13 @@
 - Experince on HTML5, CSS3, and JavaScript
 - Experince with any of design softwares(Photoshop, Illustrator, Sketch, Affinity)
 
+## Junior Software Engineer
+
+### Skills & Responsibilities
+- Execute full software development life cycle (SDLC)
+- Participate on peer reviews
+- Particpate on prepartion of software documents
+- Experience on any programming laguages(Java, Python, Kotlin)
+
 
 
