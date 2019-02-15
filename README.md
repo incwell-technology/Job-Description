@@ -1,4 +1,4 @@
-# Job-Description
+# Job Description
 ## UI/UX Developer
 
 ### Skills & Responsibilities
